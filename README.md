@@ -26,6 +26,8 @@ Below is the architecture diagram of the YouTube AI Assistant:
 
 ![Streamlit App Screenshot](assets/img.png)
 
+![Streamlit App Screenshot](assets/img_2.png)
+
 ---
 
 ## Installation
@@ -96,8 +98,9 @@ TAHA BOUHAFA
 
 ## License
 
-MIT License
 
+Feel free to use, modify, and share this project for any purpose.  
+No restrictions, no warranties — just enjoy and build awesome things!  
 ---
 
 ## Contact
